@@ -1,4 +1,4 @@
-<h1 align="center">Hallo ich bin Julian S.</h1>
+<h1 align="center">Hallo, ich bin Julian S.</h1>
 <h3 align="center">Ich programmiere in meiner Freizeit Skripte, die der Automatisierung und Vereinfachung von Anwendungen dienen.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lofentblack&label=Profile%20views&color=0e75b6&style=flat" alt="lofentblack" /> </p>
