@@ -15,9 +15,9 @@
 
 ```[tasklist]
 
-- [ ] Skripte nicht root/admin aängig machen
+- [ ] Skripte nicht root/admin abhängig machen
 
-- [ ] English hinzufügen
+- [ ] Englisch hinzufügen
 
 - [ ] Firewall Skript (ufw) :tada:
 
