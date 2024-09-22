@@ -1,7 +1,7 @@
 <h1 align="center">Hallo, ich bin Julian S.</h1>
 <h3 align="center">Ich programmiere in meiner Freizeit Skripte, die der Automatisierung und Vereinfachung von Anwendungen dienen.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lofentblack&label=Profile%20views&color=0e75b6&style=flat" alt="lofentblack" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lofentblack&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="lofentblack" /> </p>
 
 - 🔭 Ich arbeite derzeit an meinem [Forum](https://Forum.LofentBlack.de)
 
@@ -10,6 +10,24 @@
 - 📫 Du erreichst mich in meinem Forum **Forum.LofentBlack.de**
 
 - ⚡ Fun fact **Ich bin lieber draußen als drinnen.**
+
+<h3 align="center">Meine TODO:</h3>
+
+```[tasklist]
+
+- [ ] Skripte nicht root/admin aängig machen
+
+- [ ] English hinzufügen
+
+- [ ] Firewall Skript (ufw) :tada:
+
+- [ ] screen und docker
+
+- [ ] Powershell Skript für Windows 11 (Kontextmenü und weiteres...)
+
+```
+
+
 
 <h3 align="center">Sprachen und Werkzeuge:</h3>
 
