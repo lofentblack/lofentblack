@@ -3,11 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lofentblack&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="lofentblack" /> </p>
 
-- 🔭 Ich arbeite derzeit an meinem [Forum](https://Forum.LofentBlack.de)
-
 - 🌱 Ich Lerne Aktuell **Java, C++, Bash, PHP**
 
-- 📫 Du erreichst mich in meinem Forum **Forum.LofentBlack.de**
+- 📫 Du erreichst mich in unter **Kontake[at]LofentBlack(.)de**
 
 - ⚡ Fun fact **Ich bin lieber draußen als drinnen.**
 
